@@ -182,7 +182,6 @@
 			children = (
 				DB41D56925ADAA6D0053935A /* Views */,
 				DB41D56A25ADAA7E0053935A /* Models */,
-				DB96A3BC25B30BAB00EE0A9F /* Categories */,
 				DB41D56B25ADAA960053935A /* Resources */,
 				DB41D51925AD8A700053935A /* LandmarksApp.swift */,
 				DB41D51D25AD8A760053935A /* Assets.xcassets */,
@@ -222,6 +221,7 @@
 			isa = PBXGroup;
 			children = (
 				DB41D51B25AD8A700053935A /* ContentView.swift */,
+				DB96A3BC25B30BAB00EE0A9F /* Categories */,
 				DB96A37C25B1EEE200EE0A9F /* Landmarks */,
 				DB96A3AD25B2E7F000EE0A9F /* Hikes */,
 				DB96A39A25B2C51800EE0A9F /* Badges */,
